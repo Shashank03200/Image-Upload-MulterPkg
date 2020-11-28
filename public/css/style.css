@@ -1,0 +1,13 @@
+.uploadBtn{
+    position: absolute;
+    left: 80%;
+    margin-bottom: 40px;
+}
+
+
+.inner-container {
+    margin: 20px auto;
+    padding: 50px;
+    
+    box-shadow:  2px 2px 20px rgb(39, 184, 184);
+}
